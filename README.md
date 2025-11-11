@@ -15,8 +15,8 @@ Compatible with the MIPI CSI connectors on the DEBIX Model A, DEBIX Model B, DEB
 </p>
 
 ## Specification
-|                 |                              |
-|-----------------|------------------------------|
+| Parameter       |    Value                     |
+|:-----------------|:------------------------------|
 | Pin Count & Pitch   | 24Pin (0.5mm pitch) to 15Pin (1mm pitch) |
 | Insertion Thickness | 0.35-0.4mm               |
 | Contact Orientation | Same side                |
